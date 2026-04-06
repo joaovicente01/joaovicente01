@@ -1,21 +1,30 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Vicente
 
-# Olá, eu sou Vicente
+### 👨🏿‍💻 Desenvolvedor Back-End | Java • Python • Banco de Dados
 
-* 👨🏿‍💻 Atualmente trabalho como Auxiliar de Programação na G4F
-* 🧑🏿‍💻 Trabalho com Desenvolvimento Back-End, Java, Python e Banco de Dados
-* 📽️ Procuro colaborar no desenvolvimento de projetos
+Sou Auxiliar de Programação na G4F, com foco em desenvolvimento back-end e construção de soluções eficientes.  
+Tenho experiência com Java, Python e bancos de dados, e estou em constante evolução na área de tecnologia.
 
+🚀 Busco oportunidades para aprimorar minhas habilidades e contribuir em projetos desafiadores.
+
+---
+
+## 🧠 Tecnologias
+
+### 💻 Back-End
 <div style="display: inline_block">
-  <br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+</div>
+
+### 🌐 Front-End
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
 </div>
 
@@ -41,4 +50,4 @@
 
 ## 📊 Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DocenteDevRafael\&count_private=true\&theme=blue-green\&title_color=00b3ff)](#)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USERNAME_AQUI&theme=blue-green)](#)
