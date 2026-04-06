@@ -5,7 +5,7 @@
 Sou Auxiliar de Programação na G4F, com foco em desenvolvimento back-end e construção de soluções eficientes.  
 Tenho experiência com Java, Python e bancos de dados, atuando na implementação de funcionalidades, manutenção de sistemas e resolução de problemas.
 
-🚀 Busco oportunidades para aprimorar minhas habilidades e contribuir em projetos desafiadores.
+🚀 Em busca de oportunidades para aprimorar minhas habilidades e contribuir em projetos desafiadores.
 
 ---
 
