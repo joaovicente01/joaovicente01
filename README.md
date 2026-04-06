@@ -1,9 +1,9 @@
-## 👋 Olá, eu sou o Vicente
+## 👋 Olá, eu sou o  João Vicente
 
 ### 👨🏿‍💻 Desenvolvedor Back-End | Java • Python • Banco de Dados
 
 Sou Auxiliar de Programação na G4F, com foco em desenvolvimento back-end e construção de soluções eficientes.  
-Tenho experiência com Java, Python e bancos de dados, e estou em constante evolução na área de tecnologia.
+Tenho experiência com Java, Python e bancos de dados, atuando na implementação de funcionalidades, manutenção de sistemas e resolução de problemas.
 
 🚀 Busco oportunidades para aprimorar minhas habilidades e contribuir em projetos desafiadores.
 
@@ -50,4 +50,4 @@ Tenho experiência com Java, Python e bancos de dados, e estou em constante evol
 
 ## 📊 Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USERNAME_AQUI&theme=blue-green)](#)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joaovicente01&theme=blue-green)](#)
