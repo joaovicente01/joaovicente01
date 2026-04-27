@@ -51,3 +51,11 @@ Tenho experiência com Java, Python e bancos de dados, atuando na implementaçã
 ## 📊 Estatísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joaovicente01&theme=blue-green)](#)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
