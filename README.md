@@ -72,21 +72,19 @@ Abaixo estão alguns dos projetos que demonstram minha capacidade de arquitetar 
 
 ---
 
-## 📈 Métricas do GitHub
+📈 Métricas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicente01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicente01&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</div>   
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicente01&theme=dark" alt="GitHub Streak" />
 </div>
 
-<br>
+
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicente01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <i>"A simplicidade é o último grau de sofisticação." — Leonardo da Vinci</i>
-</div>
+<i>"A simplicidade é o último grau de sofisticação." — Leonardo da Vinci</i>
+</div> 
