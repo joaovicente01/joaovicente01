@@ -74,10 +74,6 @@ Abaixo estão alguns dos projetos que demonstram minha capacidade de arquitetar 
 
 📈 Métricas do GitHub
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicente01&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</div>   
  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicente01&theme=dark" alt="GitHub Streak" />
 </div>
