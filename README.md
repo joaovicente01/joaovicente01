@@ -1,159 +1,92 @@
-👋 Olá, eu sou o João Vicente
-
-👨🏿‍💻 Desenvolvedor Back-End | Java • Python • Banco de Dados
-
-Sou Auxiliar de Programação na G4F, com foco em desenvolvimento back-end e construção de soluções eficientes. Tenho experiência com Java, Python e bancos de dados, atuando na implementação de funcionalidades, manutenção de sistemas e resolução de problemas.
-
-🚀 Em busca de oportunidades para aprimorar minhas habilidades e contribuir em projetos desafiadores.
-
-
-
-
-💡 Sobre Mim
-
-Como Desenvolvedor Back-End na G4F, sou apaixonado por construir soluções robustas e eficientes que impulsionam o sucesso dos negócios. Minha jornada no desenvolvimento me proporcionou uma sólida experiência em Java, Python e bancos de dados, onde atuo desde a concepção até a implementação e manutenção de sistemas. Sou movido pela busca contínua por conhecimento e pela aplicação de melhores práticas para resolver desafios complexos. Estou sempre em busca de novas oportunidades para expandir minhas habilidades e colaborar em projetos inovadores.
-
-
-
-
-🧠 Tecnologias e Ferramentas
-
-💻 Linguagens de Programação
-
-<div style="display: inline_block">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript">
+<div align="center">
+  <img src="github_banner_joao.png" alt="Banner João Vicente - Back-End Developer" width="100%">
 </div>
 
-🗄️ Bancos de Dados
-
-<div style="display: inline_block">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">
-  <!-- Adicione outros bancos de dados que você utiliza, como MongoDB, SQL Server, etc. -->
-</div>
-
-🌐 Frameworks e Bibliotecas (Front-End )
-
-<div style="display: inline_block">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="Bootstrap">
-</div>
-
-🛠️ Ferramentas e Outros
-
-<div style="display: inline_block">
-<!-- Adicionar ícones de ferramentas como Docker, Git, VS Code, etc. -->
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code">
-</div>
-
-
-
-
-🚀 Projetos de Destaque
-
-Nesta seção, você pode apresentar seus projetos mais relevantes. Considere incluir:
-
-•
-Nome do Projeto: Um título claro e conciso.
-
-•
-Descrição: Uma breve explicação sobre o que o projeto faz e qual problema ele resolve.
-
-•
-Tecnologias: As principais tecnologias utilizadas no desenvolvimento.
-
-•
-Link para o Repositório: Para que os visitantes possam explorar o código.
-
-•
-Link para Demonstração (se houver ): Se o projeto tiver uma versão online ou um vídeo de demonstração.
-
-•
-Destaques/Aprendizados: O que você mais se orgulha no projeto ou o que aprendeu com ele.
-
-Exemplo:
-
-Projeto X - API de Gerenciamento de Tarefas
-
-Este projeto é uma API RESTful desenvolvida em Java com Spring Boot para gerenciar tarefas. Permite operações CRUD (Criar, Ler, Atualizar, Deletar) para tarefas, usuários e categorias. Utiliza PostgreSQL como banco de dados e Docker para conteinerização.
-
-•
-Tecnologias: Java, Spring Boot, PostgreSQL, Docker
-
-•
-Repositório: Link para o Repositório
-
-•
-Destaques: Implementação de autenticação JWT, testes unitários e de integração, documentação com Swagger.
-
-
-
-
-📫 Contato
-
-<div>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vicente-557349230/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>   <a href="mailto:joaovicente2310@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>   <a href="https://www.instagram.com/j.vicente10/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/joaovicente01" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
-
-
-
-📊 Estatísticas do GitHub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h1 align="center">Olá, eu sou o João Vicente 👋</h1>
+<h3 align="center">Desenvolvedor Back-End Sênior | Arquiteto de Soluções | Especialista em Dados</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animação de cobra com o gráfico de contribuições do GitHub" />
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vicente-557349230/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:joaovicente2310@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/joaovicente01" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
+---
 
+## 👨‍💻 Sobre Mim
 
+Sou um **Desenvolvedor Back-End** atuando na G4F, especializado na construção de arquiteturas escaláveis, APIs de alta performance e modelagem de dados complexa. Minha paixão reside em resolver problemas de engenharia de software no lado do servidor, garantindo que as aplicações sejam não apenas funcionais, mas também seguras, resilientes e otimizadas.
 
+*   🔭 Atualmente trabalhando em: **Arquiteturas de Microsserviços e Otimização de Bancos de Dados**.
+*   🌱 Aprendendo continuamente sobre: **Cloud Computing (AWS/Azure), CI/CD e Design Patterns Avançados**.
+*   💬 Pergunte-me sobre: **Java (Spring Boot), Python (Django/FastAPI), Modelagem Relacional e APIs RESTful**.
+*   ⚡ Curiosidade: Acredito que um código limpo e bem testado é a base de qualquer produto de sucesso.
+
+---
+
+## 🛠️ Stack Tecnológico & Especialidades
+
+Para garantir a entrega de software de alta qualidade, utilizo um ecossistema robusto de ferramentas e linguagens, focado em performance e manutenibilidade.
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens Core** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
+| **Bancos de Dados** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Front-End (Apoio)** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) |
+
+---
+
+## 🚀 Projetos em Destaque
+
+Abaixo estão alguns dos projetos que demonstram minha capacidade de arquitetar e implementar soluções Back-End complexas.
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 API de Microsserviços E-commerce</h3>
+      <p align="center">Arquitetura baseada em eventos para processamento de pedidos em tempo real.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-Spring_Boot-green?style=flat-square">
+        <img src="https://img.shields.io/badge/RabbitMQ-Messaging-orange?style=flat-square">
+      </p>
+      <p align="center"><a href="#">🔗 Ver Repositório</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Motor de Análise de Dados</h3>
+      <p align="center">Pipeline de ETL construído em Python para processamento de grandes volumes de dados.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Pandas-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square">
+      </p>
+      <p align="center"><a href="#">🔗 Ver Repositório</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Métricas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicente01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicente01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>"A simplicidade é o último grau de sofisticação." — Leonardo da Vinci</i>
+</div>
