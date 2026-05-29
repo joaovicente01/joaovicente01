@@ -50,13 +50,7 @@ Habit tracking application focused on task organization and daily productivity.
 
 ---
 
-## 🏆 GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaovicente01&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4" />
-
-</div>
+## 📈 GitHub Activity <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovicente01&theme=github-dark&hide_border=true" /> </div>
 
 ---
 
