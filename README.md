@@ -47,13 +47,10 @@ Habit tracking application focused on task organization and daily productivity.
 
 ---
 
-## 📈 GitHub Stats
+md id="m9q2vp"
+<img src="https://github-profile-trophy.vercel.app/?username=joaovicente01&theme=darkhub&no-frame=true&margin-w=10" />
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true" />
-
-</div>
 
 
 ---
