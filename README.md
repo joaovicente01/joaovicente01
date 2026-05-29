@@ -1,4 +1,3 @@
-```md id="0syq48"
 <div align="center">
 
 # João Vicente
