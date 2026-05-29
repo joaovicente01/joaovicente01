@@ -51,7 +51,7 @@ Habit tracking application focused on task organization and daily productivity.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </div>
 
