@@ -1,3 +1,4 @@
+```md id="b3x7qm"
 <div align="center">
 
 # João Vicente
@@ -16,24 +17,26 @@
 
 ## 👨‍💻 About Me
 
-Back-end developer focused on building APIs and learning scalable application development.
+Back-end developer focused on building APIs and improving scalable application development skills.
 
-Currently studying and working with:
+Currently working and studying:
 - Java & Spring Boot
 - Python
 - REST APIs
 - Relational Databases
 - Docker
 
-Interested in software architecture, clean code, and back-end development.
+Interested in software architecture, clean code, and back-end engineering.
 
 ---
 
 ## ⚡ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,docker,git,linux&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,docker,git,linux&theme=dark" />
+
+</div>
 
 ---
 
@@ -47,8 +50,13 @@ Habit tracking application focused on task organization and daily productivity.
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=joaovicente01&theme=darkhub&no-frame=true&margin-w=10" />
+## 🏆 GitHub
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joaovicente01&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4" />
+
+</div>
 
 ---
 
