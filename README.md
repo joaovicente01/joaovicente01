@@ -1,4 +1,4 @@
-```md id="b3x7qm"
+
 <div align="center">
 
 # João Vicente
@@ -73,4 +73,4 @@ Habit tracking application focused on task organization and daily productivity.
 </a>
 
 </div>
-```
+
