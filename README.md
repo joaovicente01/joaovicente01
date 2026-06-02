@@ -1,142 +1,44 @@
 <div align="center">
 
-# 👨‍💻 João Vicente
+# João Vicente
 
-<img src="https://komarev.com/ghpvc/?username=joaovicente01&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-
-<img src="https://img.shields.io/github/followers/joaovicente01?style=flat&color=blue" alt="followers" />
-
-<br><br>
-
-### 🚀 Back-End Developer | Java | Python | Cyber Security Enthusiast
+### Back-End Developer | Java | Python | Cyber Security Enthusiast
 
 Building secure and scalable applications while continuously improving my software engineering and security skills.
 
-<br>
+<a href="https://github.com/joaovicente01">
+  <img src="https://img.shields.io/github/followers/joaovicente01?style=for-the-badge&color=0A66C2" />
+</a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vicente-557349230/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a Back-End Developer passionate about creating robust, scalable and secure systems.
+I'm a Back-End Developer focused on building reliable and secure applications using Java and Python.
 
-Currently focused on:
+Currently studying Software Analysis and Development (ADS) and expanding my knowledge in:
 
-🔹 Java & Spring Boot
-
-🔹 Secure API Development
-
-🔹 Application Security (AppSec)
-
-🔹 DevSecOps
-
-🔹 Cyber Security
-
-My goal is to combine high-quality software engineering with modern security practices to build resilient applications.
+- Spring Boot
+- Application Security (AppSec)
+- Secure API Development
+- DevSecOps
+- Cyber Security
 
 ---
 
-## 💻 Languages & Technologies
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,html,css,nodejs,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,docker,git,linux,aws,redis,bash,vscode&theme=dark" />
 
 </div>
-
----
-
-## 🗄️ Database & Data
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
-
-</div>
-
----
-
-## 🛠️ Tools & Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,linux,aws,bash&theme=dark" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-🌱 Spring Security
-
-🌱 OWASP Top 10
-
-🌱 Docker & Kubernetes
-
-🌱 DevSecOps
-
-🌱 Secure Software Development
-
-</div>
-
----
-
-## 🛡️ Cyber Security Focus
-
-- Secure Coding Practices
-- OWASP Top 10
-- Authentication & Authorization
-- API Security
-- Vulnerability Management
-- Secure Development Lifecycle (SDLC)
-- DevSecOps Fundamentals
-
----
-
-## 📌 Featured Projects
-
-### Habit Tracker
-
-A productivity-focused application built using Clean Architecture principles and security best practices.
-
-**Stack**
-
-Java • Spring Boot • PostgreSQL • Docker
-
-**Features**
-
-- JWT Authentication
-- Input Validation
-- Data Encryption
-- Clean Architecture
-
-🔗 Repository:
-https://github.com/joaovicente01/habit-tracker
-
----
-
-### Other Projects
-
-🔹 Bot HDPR
-
-Discord bot developed with Python for automation and server management.
-
-🔹 Sortlyx
-
-Desktop application focused on file organization and productivity.
-
-🔹 ToQuite
-
-Management platform for local businesses and customer debt control.
 
 ---
 
@@ -144,53 +46,21 @@ Management platform for local businesses and customer debt control.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicente01&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicente01&theme=github-dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicente01&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovicente01&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🎖️ Certifications
-
-- Cisco Networking Academy - Introduction to Cybersecurity
-- Cisco Networking Academy - Cybersecurity Essentials
-- Microsoft Learn Security Modules
-
----
-
-## 💡 Soft Skills
-
-✔ Leadership
-
-✔ Discipline
-
-✔ Teamwork
-
-✔ Problem Solving
-
-✔ Continuous Learning
-
-✔ Adaptability
+- Back-End Development with Java & Spring
+- Secure Coding Practices
+- OWASP Top 10
+- API Security
+- DevSecOps Fundamentals
 
 ---
 
