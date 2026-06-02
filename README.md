@@ -1,86 +1,209 @@
-# João Vicente
-
-### Back-End Developer | Java | Python | Cyber Security Enthusiast
-
-<p align="center">
-  <a href="https://github.com/joaovicente01">
-    <img src="https://img.shields.io/github/followers/joaovicente01?style=for-the-badge&color=0A66C2" alt="GitHub Followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vicente-557349230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicente01&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **Back-End Developer** with a growing interest in **Cyber Security**. I specialize in building robust systems using **Java** and **Python**, with a focus on creating secure and scalable back-end architectures. 
-
-Lately, I've been diving deep into **Application Security (AppSec)**, exploring how to implement security best practices right from the start of the development lifecycle. My goal is to bridge the gap between efficient back-end engineering and proactive security measures, ensuring that every line of code I write is not only functional but also resilient against vulnerabilities.
-
-### 🛡️ Cyber Security Focus:
-- **Secure Coding Practices:** Implementing OWASP standards in Java/Spring applications.
-- **API Security:** Protecting endpoints against common threats (Injection, Broken Auth, etc.).
-- **DevSecOps:** Integrating security tools into the CI/CD pipeline.
-
----
-
-## ⚡ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,docker,git,linux,aws,kubernetes,redis,bash,vscode&theme=dark" alt="Tech Stack" />
+# 👨‍💻 João Vicente
+
+<img src="https://komarev.com/ghpvc/?username=joaovicente01&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+
+<img src="https://img.shields.io/github/followers/joaovicente01?style=flat&color=blue" alt="followers" />
+
+<br><br>
+
+### 🚀 Back-End Developer | Java | Python | Cyber Security Enthusiast
+
+Building secure and scalable applications while continuously improving my software engineering and security skills.
+
+<br>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vicente-557349230/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 👋 About Me
 
-### 📌 Habit Tracker
+I am a Back-End Developer passionate about creating robust, scalable and secure systems.
 
-A productivity-focused application where I applied **Clean Architecture** and **Secure Coding** principles. The back-end is built to handle user data efficiently while maintaining a high standard of security for authentication and data persistence.
+Currently focused on:
 
-**Stack:** Java • Spring Boot • PostgreSQL • Docker
+🔹 Java & Spring Boot
 
-**Security Features:**
-*   JWT-based Authentication & Authorization.
-*   Data encryption at rest.
-*   Input validation to prevent SQL Injection and XSS.
+🔹 Secure API Development
 
-[View Repository](https://github.com/joaovicente01/habit-tracker)
+🔹 Application Security (AppSec)
+
+🔹 DevSecOps
+
+🔹 Cyber Security
+
+My goal is to combine high-quality software engineering with modern security practices to build resilient applications.
+
+---
+
+## 💻 Languages & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,html,css,nodejs,react&theme=dark" />
+
+</div>
+
+---
+
+## 🗄️ Database & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
+
+</div>
+
+---
+
+## 🛠️ Tools & Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,linux,aws,bash&theme=dark" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+🌱 Spring Security
+
+🌱 OWASP Top 10
+
+🌱 Docker & Kubernetes
+
+🌱 DevSecOps
+
+🌱 Secure Software Development
+
+</div>
+
+---
+
+## 🛡️ Cyber Security Focus
+
+- Secure Coding Practices
+- OWASP Top 10
+- Authentication & Authorization
+- API Security
+- Vulnerability Management
+- Secure Development Lifecycle (SDLC)
+- DevSecOps Fundamentals
+
+---
+
+## 📌 Featured Projects
+
+### Habit Tracker
+
+A productivity-focused application built using Clean Architecture principles and security best practices.
+
+**Stack**
+
+Java • Spring Boot • PostgreSQL • Docker
+
+**Features**
+
+- JWT Authentication
+- Input Validation
+- Data Encryption
+- Clean Architecture
+
+🔗 Repository:
+https://github.com/joaovicente01/habit-tracker
+
+---
+
+### Other Projects
+
+🔹 Bot HDPR
+
+Discord bot developed with Python for automation and server management.
+
+🔹 Sortlyx
+
+Desktop application focused on file organization and productivity.
+
+🔹 ToQuite
+
+Management platform for local businesses and customer debt control.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaovicente01&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicente01&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicente01&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovicente01&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovicente01&theme=github-dark&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🌎 Let's Connect
+## 🎖️ Certifications
 
-I'm always looking to collaborate on projects involving Back-End Engineering or Cyber Security. Let's build something secure together!
+- Cisco Networking Academy - Introduction to Cybersecurity
+- Cisco Networking Academy - Cybersecurity Essentials
+- Microsoft Learn Security Modules
+
+---
+
+## 💡 Soft Skills
+
+✔ Leadership
+
+✔ Discipline
+
+✔ Teamwork
+
+✔ Problem Solving
+
+✔ Continuous Learning
+
+✔ Adaptability
+
+---
+
+## 🌎 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vicente-557349230/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vicente-557349230/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:joaovicente2310@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
